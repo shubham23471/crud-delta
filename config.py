@@ -1,0 +1,1 @@
+FLASK_APP=crud_delta.py
